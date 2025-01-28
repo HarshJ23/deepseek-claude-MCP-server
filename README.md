@@ -2,6 +2,8 @@
 
 **Enhance Claude's reasoning capabilities** with the integration of DeepSeek R1's advanced reasoning engine. This server enables Claude to tackle complex reasoning tasks by leveraging the reasoning capabilites of deepseek r1 model.
 
+<a href="https://glama.ai/mcp/servers/w3q7v1srsw"><img width="380" height="200" src="https://glama.ai/mcp/servers/w3q7v1srsw/badge" alt="DeepSeek-Claude Server MCP server" /></a>
+
 ---
 
 ## 🚀 Features
