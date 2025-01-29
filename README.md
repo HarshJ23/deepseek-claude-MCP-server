@@ -1,4 +1,5 @@
 # DeepSeek-Claude MCP Server
+[![smithery badge](https://smithery.ai/badge/@HarshJ23/deepseek-claude-MCP-server)](https://smithery.ai/server/@HarshJ23/deepseek-claude-MCP-server)
 
 **Enhance Claude's reasoning capabilities** with the integration of DeepSeek R1's advanced reasoning engine. This server enables Claude to tackle complex reasoning tasks by leveraging the reasoning capabilites of deepseek r1 model.
 
@@ -22,10 +23,19 @@
 
 ## Complete Setup guide
 
+### Installing via Smithery
+
+To install DeepSeek-Claude for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@HarshJ23/deepseek-claude-MCP-server):
+
+```bash
+npx -y @smithery/cli install @HarshJ23/deepseek-claude-MCP-server --client claude
+```
+
 ### Prerequisites
 - Python 3.12 or higher
 - `uv` package manager
 - DeepSeek API key (Sign up at [DeepSeek Platform](https://platform.deepseek.com))
+
 
 
 1. **Clone the Repository**
